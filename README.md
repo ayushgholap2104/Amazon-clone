@@ -38,7 +38,6 @@ Amazon-Clone/
 └── README.md
 ```
 
-*Note: Update the file names above to match your actual project structure.*
 
 ## 🚀 Getting Started
 
