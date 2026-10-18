@@ -4,7 +4,7 @@
 
 ## 🕶 Preview
 
-![Amazon Clone Preview](amazon.png)
+![Amazon Clone Preview](AmazonClone_Preview.jpg)
 
 ## 📝 Overview
 
